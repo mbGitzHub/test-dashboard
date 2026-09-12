@@ -11,7 +11,7 @@ A small Flask dashboard that displays live system information, Ubuntu/WSL detail
 ## Local setup
 
 ```bash
-cd /home/ladmin/test-dashboard
+cd /home/ladmin/projects/test-dashboard
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
